@@ -17,5 +17,6 @@ public class Hello2 {
     public static void main(String[] args) {
         //Printing out "Hello, World!" on the console
         System.out.println("Hello, World!");
+        //by calling out the system class and the prinline method, we are printing out whatever we pass to it
     }
 }
